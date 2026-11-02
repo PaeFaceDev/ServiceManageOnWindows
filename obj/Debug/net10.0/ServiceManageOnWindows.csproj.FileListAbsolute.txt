@@ -1,0 +1,6 @@
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.csproj.AssemblyReference.cache
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.GeneratedMSBuildEditorConfig.editorconfig
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.AssemblyInfoInputs.cache
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.AssemblyInfo.cs
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.csproj.CoreCompileInputs.cache
+D:\@@@Dev For Git\ServiceManageOnWindows\obj\Debug\net10.0\ServiceManageOnWindows.sourcelink.json
