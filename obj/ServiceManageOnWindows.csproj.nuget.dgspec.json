@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\@@@Dev For Git\\New folder\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj": {}
+    "D:\\@@@Dev For Git\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj": {}
   },
   "projects": {
-    "D:\\@@@Dev For Git\\New folder\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj": {
+    "D:\\@@@Dev For Git\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\@@@Dev For Git\\New folder\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj",
+        "projectUniqueName": "D:\\@@@Dev For Git\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj",
         "projectName": "ServiceManageOnWindows",
-        "projectPath": "D:\\@@@Dev For Git\\New folder\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj",
+        "projectPath": "D:\\@@@Dev For Git\\ServiceManageOnWindows\\ServiceManageOnWindows.csproj",
         "packagesPath": "C:\\Users\\240154162.HAIER\\.nuget\\packages\\",
-        "outputPath": "D:\\@@@Dev For Git\\New folder\\ServiceManageOnWindows\\obj\\",
+        "outputPath": "D:\\@@@Dev For Git\\ServiceManageOnWindows\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[10.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
