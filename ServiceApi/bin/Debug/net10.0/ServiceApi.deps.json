@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ServiceApi/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Hosting.WindowsServices": "10.0.14"
+        },
+        "runtime": {
+          "ServiceApi.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Hosting.WindowsServices/10.0.14": {
+        "dependencies": {
+          "System.ServiceProcess.ServiceController": "10.0.14"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Hosting.WindowsServices.dll": {
+            "assemblyVersion": "10.0.0.14",
+            "fileVersion": "10.0.1426.52326"
+          }
+        }
+      },
+      "System.ServiceProcess.ServiceController/10.0.14": {
+        "runtime": {
+          "lib/net10.0/System.ServiceProcess.ServiceController.dll": {
+            "assemblyVersion": "10.0.0.14",
+            "fileVersion": "10.0.1426.52326"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.ServiceProcess.ServiceController.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.14",
+            "fileVersion": "10.0.1426.52326"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Hosting.WindowsServices/10.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IQSOKNkh06e2eskQ6ltSBZmtQqdu7/0A634/XSmXrtrlDwPbMFbTNEJs1bySQFOxH3xlCAnYNbf+Hh4Fp3nQ5Q==",
+      "path": "microsoft.extensions.hosting.windowsservices/10.0.14",
+      "hashPath": "microsoft.extensions.hosting.windowsservices.10.0.14.nupkg.sha512"
+    },
+    "System.ServiceProcess.ServiceController/10.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-riMCsgbGKGonluQzaRRrx5ney0QNkEmepNTrHD3QpqU/ICZpCJsyAWNi6JESTxqYkc+9kNQ55aZaH/n3xOjSlg==",
+      "path": "system.serviceprocess.servicecontroller/10.0.14",
+      "hashPath": "system.serviceprocess.servicecontroller.10.0.14.nupkg.sha512"
+    }
+  }
+}

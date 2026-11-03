@@ -1,0 +1,10 @@
+D:\@@@Dev For Local\ServiceApi\publish\ServiceApi.exe
+D:\@@@Dev For Local\ServiceApi\publish\appsettings.Development.json
+D:\@@@Dev For Local\ServiceApi\publish\appsettings.json
+D:\@@@Dev For Local\ServiceApi\publish\ServiceApi.dll
+D:\@@@Dev For Local\ServiceApi\publish\ServiceApi.deps.json
+D:\@@@Dev For Local\ServiceApi\publish\ServiceApi.runtimeconfig.json
+D:\@@@Dev For Local\ServiceApi\publish\ServiceApi.pdb
+D:\@@@Dev For Local\ServiceApi\publish\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\@@@Dev For Local\ServiceApi\publish\System.ServiceProcess.ServiceController.dll
+D:\@@@Dev For Local\ServiceApi\publish\runtimes\win\lib\net10.0\System.ServiceProcess.ServiceController.dll
